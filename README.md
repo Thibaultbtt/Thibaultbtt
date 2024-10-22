@@ -16,7 +16,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JlbGdxNThtbHc2dzlyZWlxazI0d2hoOW41NXplNGdycnJqbzR6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MuhVYspKtPzQuyYnYG/giphy.gif"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFqYW8zZGdqZ2x3aTRtYWtiMzAwNTM2eWo3Zmk0ZmY1d24wMnVuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h46j9LWjgRiTFoj5tF/giphy.gif"/>
 </div>
 
 ### :man_technologist: About Me :
