@@ -15,8 +15,9 @@
 <img src="https://komarev.com/ghpvc/?username=Thibaultbtt&style=flat-square&color=blue" alt=""/>
 
 
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVmb2tlM2J1ODRxajVieXhxMnpsbzAwcmQ3azFra2tjYWF2MHRraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="100"/>
+</div>
 
 ### :man_technologist: About Me :
 
