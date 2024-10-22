@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=Thibaultbtt&style=flat-square&color=blue" alt=""/>
 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/MuhVYspKtPzQuyYnYG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/actionvfx-vfx-visual-effects-magic-shockwaves-MuhVYspKtPzQuyYnYG">via GIPHY</a></p>
+<div><iframe src="https://giphy.com/embed/MuhVYspKtPzQuyYnYG"></iframe></div><p><a href="https://giphy.com/gifs/actionvfx-vfx-visual-effects-magic-shockwaves-MuhVYspKtPzQuyYnYG">via GIPHY</a></p>
 
 
 ### :man_technologist: About Me :
